@@ -159,4 +159,8 @@ footer{
 }
 .about-info h1{
 padding-bottom: 10px;
+font-size: 30px;
+}
+.btn-us{
+    margin-top: 15px;
 }
